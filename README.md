@@ -1,1 +1,3 @@
-# oi
+# O Sistema de Inventário – Organização da Bancada de Computadores da Escola é um projeto de banco de dados desenvolvido em SQL com a finalidade de organizar e controlar os equipamentos do laboratório de informática. A ideia surgiu da necessidade de manter um registro claro e organizado dos computadores disponíveis nas bancadas, facilitando o acompanhamento do estado de cada máquina e contribuindo para um ambiente mais organizado e funcional.
+
+O banco de dados foi estruturado com tabelas relacionadas entre si, garantindo a integridade das informações e permitindo uma gestão eficiente. Entre as principais informações armazenadas estão os dados das bancadas, dos computadores
